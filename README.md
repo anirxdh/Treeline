@@ -4,6 +4,8 @@
 
 <h1 align="center">ScreenSense Voice</h1>
 
+> **Write-up:** [Building ScreenSense v1, a Hold-to-Talk Chrome Extension, in 36 Hours](https://anirudhvasudevan.com/blog/screensense-v1-talk-to-your-screen/), the architecture, decisions and lessons. Built by [Anirudh Vasudevan](https://anirudhvasudevan.com/).
+
 <p align="center">
   <strong>Talk to your screen. Get instant answers.</strong><br/>
   A voice-first AI Chrome extension that sees your screen and answers your questions — by voice, text, or both.
